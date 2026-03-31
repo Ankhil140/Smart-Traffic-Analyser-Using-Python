@@ -1,4 +1,4 @@
-<h1 align="center">🌍 Global Smart Traffic Prediction System</h1>
+<h1 align="center">🌍 Smart Traffic Analyser</h1>
 <p align="center">
   <em>A 100% Free, Keyless, and Professional-Grade Deep Learning Dashboard for Real-Time Route Analytics</em>
 </p>
